@@ -3,7 +3,7 @@
 	<default-config >
 
 		<property name="user">root</property>
-		<property name="password">yxc2131518xph</property>
+		<property name="password">cxybaba</property>
 		<property name="driverClass">com.mysql.jdbc.Driver</property>
 		<property name="jdbcUrl">jdbc:mysql://127.0.0.1:3306/rdf</property>
 		
